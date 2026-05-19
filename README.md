@@ -6,7 +6,7 @@ This project is a **real-time WhatsApp-style chat application** built using Node
 
 ---
 
-## 1. Features to Include
+## 1. Features to Include 
 
 ### Core Features
 
